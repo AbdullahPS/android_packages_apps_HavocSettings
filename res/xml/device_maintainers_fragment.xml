@@ -467,6 +467,16 @@
                 android:data="https://t.me/waj_08" />
         </Preference>
 
+         <Preference
+            android:id="@+id/device_lmi"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_lmi_summary"
+            android:title="@string/device_lmi" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/t6pal" />
+        </Preference>
+
         <Preference
             android:id="@+id/device_land"
             android:icon="@drawable/havoc_device"

@@ -160,6 +160,9 @@
     <string name="device_beryllium" translatable="false">Xiaomi Poco F1</string>
     <string name="device_beryllium_summary" translatable="false">beryllium\nWajid Khan (wajidkh08)</string>
 
+    <string name="device_lmi" translatable="false">Xiaomi Poco F2 PRO</string>
+    <string name="device_lmi_summary" translatable="false">lmi\Abdullah Tabbal (AbdullahPS)</string>
+
     <string name="device_land" translatable="false">Xiaomi Redmi 3S</string>
     <string name="device_land_summary" translatable="false">land\nSaksham Singh</string>
 
